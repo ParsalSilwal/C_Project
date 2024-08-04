@@ -1,4 +1,4 @@
-COVID-19 Vaccination Registration System
+COVID-19 Vaccination Registration System:
 This C program is a simple command-line application for managing COVID-19 vaccination registrations. It allows users to fill out their personal information, view registered data, and handle unique registration codes.
 
 Features
